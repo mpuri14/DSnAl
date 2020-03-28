@@ -1,2 +1,2 @@
-# Data_Structures
-data structures &amp; algo
+# Random exploration
+DS & Al
